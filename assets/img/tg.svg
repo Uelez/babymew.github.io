@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="81" viewBox="0 0 81 81">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3652" data-name="Rectangle 3652" width="81" height="81" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Tg" clip-path="url(#clip-path)">
+    <path id="Path_20542" data-name="Path 20542" d="M40.5,81A40.5,40.5,0,1,0,0,40.5,40.5,40.5,0,0,0,40.5,81Z" fill="#41b4e6"/>
+    <path id="Path_20543" data-name="Path 20543" d="M81,40.5c0-.987-.037-1.965-.106-2.934L64.108,20.781,16.892,39.354,34.957,57.42l.237.853.307-.309h0l-.308.308L55.178,78.257A40.513,40.513,0,0,0,81,40.5Z" fill="#0091c8"/>
+    <path id="Path_20544" data-name="Path 20544" d="M36.567,46.4l18.3,13.819,9.239-39.438L16.892,39.354l14.368,4.759L57.48,26.525Z" fill="#fff"/>
+    <path id="Path_20545" data-name="Path 20545" d="M31.259,44.113l3.935,14.16L36.567,46.4,57.48,26.525Z" fill="#d2d2d7"/>
+    <path id="Path_20546" data-name="Path 20546" d="M42.515,50.892l-7.321,7.381L36.567,46.4Z" fill="#b9b9be"/>
+  </g>
+</svg>
